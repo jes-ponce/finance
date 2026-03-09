@@ -1,0 +1,6 @@
+{
+	"appId": "com.financeapp.app",
+	"appName": "FinanceApp",
+	"webDir": "dist/finance/browser",
+	"packageClassList": []
+}
